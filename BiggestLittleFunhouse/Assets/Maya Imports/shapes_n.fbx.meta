@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: cfdfd4f3345f403438ea9e6563ac6db1
+timeCreated: 1493007476
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: shapes_C:group1
+    100002: shapes_C:pCube1
+    100004: shapes_C:pCube13
+    100006: shapes_C:pCube2
+    100008: shapes_C:pCube21
+    100010: shapes_C:pCube3
+    100012: shapes_C:pCylinder1
+    100014: shapes_C:pCylinder2
+    100016: shapes_C:pCylinder3
+    100018: shapes_C:pCylinder4
+    100020: shapes_C:pCylinder5
+    100022: shapes_C:polySurface18
+    100024: shapes_C:polySurface19
+    100026: shapes_C:polySurface2
+    100028: shapes_C:transform1
+    100030: shapes_C:transform2
+    100032: shapes_C:transform21
+    100034: shapes_C:transform3
+    100036: shapes_C:transform34
+    100038: shapes_C:transform35
+    100040: shapes_C:transform36
+    100042: shapes_C:transform37
+    100044: shapes_C:transform38
+    100046: shapes_C:transform4
+    100048: shapes_C:transform5
+    100050: shapes_C:transform6
+    100052: //RootNode
+    400000: shapes_C:group1
+    400002: shapes_C:pCube1
+    400004: shapes_C:pCube13
+    400006: shapes_C:pCube2
+    400008: shapes_C:pCube21
+    400010: shapes_C:pCube3
+    400012: shapes_C:pCylinder1
+    400014: shapes_C:pCylinder2
+    400016: shapes_C:pCylinder3
+    400018: shapes_C:pCylinder4
+    400020: shapes_C:pCylinder5
+    400022: shapes_C:polySurface18
+    400024: shapes_C:polySurface19
+    400026: shapes_C:polySurface2
+    400028: shapes_C:transform1
+    400030: shapes_C:transform2
+    400032: shapes_C:transform21
+    400034: shapes_C:transform3
+    400036: shapes_C:transform34
+    400038: shapes_C:transform35
+    400040: shapes_C:transform36
+    400042: shapes_C:transform37
+    400044: shapes_C:transform38
+    400046: shapes_C:transform4
+    400048: shapes_C:transform5
+    400050: shapes_C:transform6
+    400052: //RootNode
+    2300000: shapes_C:pCylinder5
+    2300002: //RootNode
+    3300000: shapes_C:pCylinder5
+    3300002: //RootNode
+    4300000: shapes_C:pCylinder5
+    4300002: pCylinder5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

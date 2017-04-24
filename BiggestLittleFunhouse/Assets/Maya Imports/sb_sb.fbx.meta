@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 1ab71d672db2b3e4e9677bbe5c9d949b
+timeCreated: 1493007460
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bikinibottom 1
+    100002: catherine_bikinibottomCombined1:group2
+    100004: catherine_bikinibottomCombined1:pCylinder1
+    100006: catherine_bikinibottomCombined1:polySurface17
+    100008: catherine_bikinibottomCombined1:pPipe1
+    100010: catherine_bikinibottomCombined1:pSphere1
+    100012: catherine_bikinibottomCombined1:pSphere10
+    100014: catherine_bikinibottomCombined1:pSphere2
+    100016: catherine_bikinibottomCombined1:pSphere3
+    100018: catherine_bikinibottomCombined1:pSphere4
+    100020: catherine_bikinibottomCombined1:pSphere5
+    100022: catherine_bikinibottomCombined1:pSphere5 1
+    100024: catherine_bikinibottomCombined1:pSphere6
+    100026: catherine_bikinibottomCombined1:pSphere7
+    100028: catherine_bikinibottomCombined1:pSphere8
+    100030: catherine_bikinibottomCombined1:pSphere9
+    100032: catherine_bikinibottomCombined1:transform52
+    100034: catherine_bikinibottomCombined1:transform53
+    100036: catherine_bikinibottomCombined1:transform54
+    100038: catherine_bikinibottomCombined1:transform55
+    100040: catherine_bikinibottomCombined1:transform56
+    100042: catherine_bikinibottomCombined1:transform57
+    100044: catherine_bikinibottomCombined1:transform58
+    100046: catherine_bikinibottomCombined1:transform59
+    100048: catherine_bikinibottomCombined1:transform60
+    100050: catherine_bikinibottomCombined1:transform61
+    100052: catherine_bikinibottomCombined1:transform62
+    100054: catherine_bikinibottomCombined1:transform63
+    100056: catherine_bikinibottomCombined1:transform64
+    100058: //RootNode
+    400000: bikinibottom 1
+    400002: catherine_bikinibottomCombined1:group2
+    400004: catherine_bikinibottomCombined1:pCylinder1
+    400006: catherine_bikinibottomCombined1:polySurface17
+    400008: catherine_bikinibottomCombined1:pPipe1
+    400010: catherine_bikinibottomCombined1:pSphere1
+    400012: catherine_bikinibottomCombined1:pSphere10
+    400014: catherine_bikinibottomCombined1:pSphere2
+    400016: catherine_bikinibottomCombined1:pSphere3
+    400018: catherine_bikinibottomCombined1:pSphere4
+    400020: catherine_bikinibottomCombined1:pSphere5
+    400022: catherine_bikinibottomCombined1:pSphere5 1
+    400024: catherine_bikinibottomCombined1:pSphere6
+    400026: catherine_bikinibottomCombined1:pSphere7
+    400028: catherine_bikinibottomCombined1:pSphere8
+    400030: catherine_bikinibottomCombined1:pSphere9
+    400032: catherine_bikinibottomCombined1:transform52
+    400034: catherine_bikinibottomCombined1:transform53
+    400036: catherine_bikinibottomCombined1:transform54
+    400038: catherine_bikinibottomCombined1:transform55
+    400040: catherine_bikinibottomCombined1:transform56
+    400042: catherine_bikinibottomCombined1:transform57
+    400044: catherine_bikinibottomCombined1:transform58
+    400046: catherine_bikinibottomCombined1:transform59
+    400048: catherine_bikinibottomCombined1:transform60
+    400050: catherine_bikinibottomCombined1:transform61
+    400052: catherine_bikinibottomCombined1:transform62
+    400054: catherine_bikinibottomCombined1:transform63
+    400056: catherine_bikinibottomCombined1:transform64
+    400058: //RootNode
+    2300000: catherine_bikinibottomCombined1:pSphere5
+    2300002: //RootNode
+    3300000: catherine_bikinibottomCombined1:pSphere5
+    3300002: //RootNode
+    4300000: catherine_bikinibottomCombined1:pSphere5
+    4300002: pSphere5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

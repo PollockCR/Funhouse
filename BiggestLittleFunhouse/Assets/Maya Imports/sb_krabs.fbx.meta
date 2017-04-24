@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 05a8f6f495de17f468fc2f2d2b18e9cd
+timeCreated: 1493007199
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bikinibottom 1
+    100002: catherine_bikinibottomCombined1:group
+    100004: catherine_bikinibottomCombined1:group3
+    100006: catherine_bikinibottomCombined1:group4
+    100008: catherine_bikinibottomCombined1:group5
+    100010: catherine_bikinibottomCombined1:group6
+    100012: catherine_bikinibottomCombined1:group6_pasted__polySurface17
+    100014: catherine_bikinibottomCombined1:group7
+    100016: catherine_bikinibottomCombined1:group7_pasted__polySurface17
+    100018: catherine_bikinibottomCombined1:pasted__group2
+    100020: catherine_bikinibottomCombined1:pasted__group2 1
+    100022: catherine_bikinibottomCombined1:pasted__polySurface17
+    100024: catherine_bikinibottomCombined1:pasted__polySurface17 1
+    100026: catherine_bikinibottomCombined1:pasted__polySurface18
+    100028: catherine_bikinibottomCombined1:pasted__pPipe1
+    100030: catherine_bikinibottomCombined1:pasted__pPipe1 1
+    100032: catherine_bikinibottomCombined1:pasted__pPipe3
+    100034: catherine_bikinibottomCombined1:pCube1
+    100036: catherine_bikinibottomCombined1:pCube2
+    100038: catherine_bikinibottomCombined1:pCube3
+    100040: catherine_bikinibottomCombined1:pCube4
+    100042: catherine_bikinibottomCombined1:pCube5
+    100044: catherine_bikinibottomCombined1:pCube6
+    100046: catherine_bikinibottomCombined1:pCylinder2
+    100048: catherine_bikinibottomCombined1:pCylinder3
+    100050: catherine_bikinibottomCombined1:pCylinder4
+    100052: catherine_bikinibottomCombined1:pCylinder5
+    100054: catherine_bikinibottomCombined1:pPyramid1
+    100056: catherine_bikinibottomCombined1:pPyramid2
+    100058: catherine_bikinibottomCombined1:pPyramid3
+    100060: catherine_bikinibottomCombined1:pPyramid4
+    100062: catherine_bikinibottomCombined1:pSphere12
+    100064: catherine_bikinibottomCombined1:pSphere13
+    100066: catherine_bikinibottomCombined1:pSphere14
+    100068: catherine_bikinibottomCombined1:pTorus1
+    100070: catherine_bikinibottomCombined1:pTorus10
+    100072: catherine_bikinibottomCombined1:pTorus11
+    100074: catherine_bikinibottomCombined1:pTorus12
+    100076: catherine_bikinibottomCombined1:pTorus13
+    100078: catherine_bikinibottomCombined1:pTorus14
+    100080: catherine_bikinibottomCombined1:pTorus15
+    100082: catherine_bikinibottomCombined1:pTorus16
+    100084: catherine_bikinibottomCombined1:pTorus17
+    100086: catherine_bikinibottomCombined1:pTorus18
+    100088: catherine_bikinibottomCombined1:pTorus19
+    100090: catherine_bikinibottomCombined1:pTorus2
+    100092: catherine_bikinibottomCombined1:pTorus20
+    100094: catherine_bikinibottomCombined1:pTorus21
+    100096: catherine_bikinibottomCombined1:pTorus3
+    100098: catherine_bikinibottomCombined1:pTorus4
+    100100: catherine_bikinibottomCombined1:pTorus5
+    100102: catherine_bikinibottomCombined1:pTorus6
+    100104: catherine_bikinibottomCombined1:pTorus7
+    100106: catherine_bikinibottomCombined1:pTorus8
+    100108: catherine_bikinibottomCombined1:pTorus9
+    100110: catherine_bikinibottomCombined1:transform10
+    100112: catherine_bikinibottomCombined1:transform11
+    100114: catherine_bikinibottomCombined1:transform12
+    100116: catherine_bikinibottomCombined1:transform13
+    100118: catherine_bikinibottomCombined1:transform14
+    100120: catherine_bikinibottomCombined1:transform15
+    100122: catherine_bikinibottomCombined1:transform16
+    100124: catherine_bikinibottomCombined1:transform17
+    100126: catherine_bikinibottomCombined1:transform18
+    100128: catherine_bikinibottomCombined1:transform19
+    100130: catherine_bikinibottomCombined1:transform20
+    100132: catherine_bikinibottomCombined1:transform21
+    100134: catherine_bikinibottomCombined1:transform22
+    100136: catherine_bikinibottomCombined1:transform23
+    100138: catherine_bikinibottomCombined1:transform24
+    100140: catherine_bikinibottomCombined1:transform25
+    100142: catherine_bikinibottomCombined1:transform26
+    100144: catherine_bikinibottomCombined1:transform27
+    100146: catherine_bikinibottomCombined1:transform28
+    100148: catherine_bikinibottomCombined1:transform29
+    100150: catherine_bikinibottomCombined1:transform30
+    100152: catherine_bikinibottomCombined1:transform31
+    100154: catherine_bikinibottomCombined1:transform32
+    100156: catherine_bikinibottomCombined1:transform33
+    100158: catherine_bikinibottomCombined1:transform34
+    100160: catherine_bikinibottomCombined1:transform35
+    100162: catherine_bikinibottomCombined1:transform36
+    100164: catherine_bikinibottomCombined1:transform37
+    100166: catherine_bikinibottomCombined1:transform38
+    100168: catherine_bikinibottomCombined1:transform39
+    100170: catherine_bikinibottomCombined1:transform40
+    100172: catherine_bikinibottomCombined1:transform41
+    100174: catherine_bikinibottomCombined1:transform42
+    100176: catherine_bikinibottomCombined1:transform43
+    100178: catherine_bikinibottomCombined1:transform44
+    100180: catherine_bikinibottomCombined1:transform45
+    100182: catherine_bikinibottomCombined1:transform46
+    100184: catherine_bikinibottomCombined1:transform47
+    100186: catherine_bikinibottomCombined1:transform48
+    100188: catherine_bikinibottomCombined1:transform49
+    100190: catherine_bikinibottomCombined1:transform50
+    100192: catherine_bikinibottomCombined1:transform51
+    100194: catherine_bikinibottomCombined1:transform7
+    100196: catherine_bikinibottomCombined1:transform8
+    100198: catherine_bikinibottomCombined1:transform9
+    100200: //RootNode
+    400000: bikinibottom 1
+    400002: catherine_bikinibottomCombined1:group
+    400004: catherine_bikinibottomCombined1:group3
+    400006: catherine_bikinibottomCombined1:group4
+    400008: catherine_bikinibottomCombined1:group5
+    400010: catherine_bikinibottomCombined1:group6
+    400012: catherine_bikinibottomCombined1:group6_pasted__polySurface17
+    400014: catherine_bikinibottomCombined1:group7
+    400016: catherine_bikinibottomCombined1:group7_pasted__polySurface17
+    400018: catherine_bikinibottomCombined1:pasted__group2
+    400020: catherine_bikinibottomCombined1:pasted__group2 1
+    400022: catherine_bikinibottomCombined1:pasted__polySurface17
+    400024: catherine_bikinibottomCombined1:pasted__polySurface17 1
+    400026: catherine_bikinibottomCombined1:pasted__polySurface18
+    400028: catherine_bikinibottomCombined1:pasted__pPipe1
+    400030: catherine_bikinibottomCombined1:pasted__pPipe1 1
+    400032: catherine_bikinibottomCombined1:pasted__pPipe3
+    400034: catherine_bikinibottomCombined1:pCube1
+    400036: catherine_bikinibottomCombined1:pCube2
+    400038: catherine_bikinibottomCombined1:pCube3
+    400040: catherine_bikinibottomCombined1:pCube4
+    400042: catherine_bikinibottomCombined1:pCube5
+    400044: catherine_bikinibottomCombined1:pCube6
+    400046: catherine_bikinibottomCombined1:pCylinder2
+    400048: catherine_bikinibottomCombined1:pCylinder3
+    400050: catherine_bikinibottomCombined1:pCylinder4
+    400052: catherine_bikinibottomCombined1:pCylinder5
+    400054: catherine_bikinibottomCombined1:pPyramid1
+    400056: catherine_bikinibottomCombined1:pPyramid2
+    400058: catherine_bikinibottomCombined1:pPyramid3
+    400060: catherine_bikinibottomCombined1:pPyramid4
+    400062: catherine_bikinibottomCombined1:pSphere12
+    400064: catherine_bikinibottomCombined1:pSphere13
+    400066: catherine_bikinibottomCombined1:pSphere14
+    400068: catherine_bikinibottomCombined1:pTorus1
+    400070: catherine_bikinibottomCombined1:pTorus10
+    400072: catherine_bikinibottomCombined1:pTorus11
+    400074: catherine_bikinibottomCombined1:pTorus12
+    400076: catherine_bikinibottomCombined1:pTorus13
+    400078: catherine_bikinibottomCombined1:pTorus14
+    400080: catherine_bikinibottomCombined1:pTorus15
+    400082: catherine_bikinibottomCombined1:pTorus16
+    400084: catherine_bikinibottomCombined1:pTorus17
+    400086: catherine_bikinibottomCombined1:pTorus18
+    400088: catherine_bikinibottomCombined1:pTorus19
+    400090: catherine_bikinibottomCombined1:pTorus2
+    400092: catherine_bikinibottomCombined1:pTorus20
+    400094: catherine_bikinibottomCombined1:pTorus21
+    400096: catherine_bikinibottomCombined1:pTorus3
+    400098: catherine_bikinibottomCombined1:pTorus4
+    400100: catherine_bikinibottomCombined1:pTorus5
+    400102: catherine_bikinibottomCombined1:pTorus6
+    400104: catherine_bikinibottomCombined1:pTorus7
+    400106: catherine_bikinibottomCombined1:pTorus8
+    400108: catherine_bikinibottomCombined1:pTorus9
+    400110: catherine_bikinibottomCombined1:transform10
+    400112: catherine_bikinibottomCombined1:transform11
+    400114: catherine_bikinibottomCombined1:transform12
+    400116: catherine_bikinibottomCombined1:transform13
+    400118: catherine_bikinibottomCombined1:transform14
+    400120: catherine_bikinibottomCombined1:transform15
+    400122: catherine_bikinibottomCombined1:transform16
+    400124: catherine_bikinibottomCombined1:transform17
+    400126: catherine_bikinibottomCombined1:transform18
+    400128: catherine_bikinibottomCombined1:transform19
+    400130: catherine_bikinibottomCombined1:transform20
+    400132: catherine_bikinibottomCombined1:transform21
+    400134: catherine_bikinibottomCombined1:transform22
+    400136: catherine_bikinibottomCombined1:transform23
+    400138: catherine_bikinibottomCombined1:transform24
+    400140: catherine_bikinibottomCombined1:transform25
+    400142: catherine_bikinibottomCombined1:transform26
+    400144: catherine_bikinibottomCombined1:transform27
+    400146: catherine_bikinibottomCombined1:transform28
+    400148: catherine_bikinibottomCombined1:transform29
+    400150: catherine_bikinibottomCombined1:transform30
+    400152: catherine_bikinibottomCombined1:transform31
+    400154: catherine_bikinibottomCombined1:transform32
+    400156: catherine_bikinibottomCombined1:transform33
+    400158: catherine_bikinibottomCombined1:transform34
+    400160: catherine_bikinibottomCombined1:transform35
+    400162: catherine_bikinibottomCombined1:transform36
+    400164: catherine_bikinibottomCombined1:transform37
+    400166: catherine_bikinibottomCombined1:transform38
+    400168: catherine_bikinibottomCombined1:transform39
+    400170: catherine_bikinibottomCombined1:transform40
+    400172: catherine_bikinibottomCombined1:transform41
+    400174: catherine_bikinibottomCombined1:transform42
+    400176: catherine_bikinibottomCombined1:transform43
+    400178: catherine_bikinibottomCombined1:transform44
+    400180: catherine_bikinibottomCombined1:transform45
+    400182: catherine_bikinibottomCombined1:transform46
+    400184: catherine_bikinibottomCombined1:transform47
+    400186: catherine_bikinibottomCombined1:transform48
+    400188: catherine_bikinibottomCombined1:transform49
+    400190: catherine_bikinibottomCombined1:transform50
+    400192: catherine_bikinibottomCombined1:transform51
+    400194: catherine_bikinibottomCombined1:transform7
+    400196: catherine_bikinibottomCombined1:transform8
+    400198: catherine_bikinibottomCombined1:transform9
+    400200: //RootNode
+    2300000: catherine_bikinibottomCombined1:pCube6
+    3300000: catherine_bikinibottomCombined1:pCube6
+    4300000: catherine_bikinibottomCombined1:pCube6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

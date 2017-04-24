@@ -1,0 +1,315 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 30.09.2009 21:31:31
+
+newmtl 02___Default
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9020 0.5020 0.5020
+	Ks 0.5490 0.5490 0.5490
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\Mat1.jpg
+	map_Kd D:\model\UV\Mat1.jpg
+	map_bump -bm 0.3500 Map__2_Normal Bump.tga
+
+newmtl Material__1
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9922 0.8353 0.5882
+	Ks 0.4680 0.4680 0.4680
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\Mat2.jpg
+	map_Kd D:\model\UV\Mat2.jpg
+	map_bump -bm 0.4000 Map__7_Normal Bump.tga
+
+newmtl Material__2
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9882 0.9922 0.5882
+	Ks 0.3780 0.3780 0.3780
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\Mat3_map.jpg
+	map_Kd D:\model\UV\Mat3_map.jpg
+	map_bump -bm 0.4000 Map__12_Normal Bump.tga
+
+newmtl Material__3
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1255 0.9255 0.2196
+	Ks 0.4050 0.4050 0.4050
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\Mat4_map.jpg
+	map_Kd D:\model\UV\Mat4_map.jpg
+	map_bump -bm 0.4000 Map__15_Normal Bump.tga
+
+newmtl Material__4
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2980 0.5020 0.3059
+	Ks 0.3240 0.3240 0.3240
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\mat5_map.jpg
+	map_Kd D:\model\UV\mat5_map.jpg
+	map_bump -bm 0.4000 Map__18_Normal Bump.tga
+
+newmtl Material__5
+	Ns 28.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.9882 0.9922
+	Ks 0.4950 0.4950 0.4950
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\Mat3_map.jpg
+	map_Kd D:\model\UV\Mat3_map.jpg
+	map_bump -bm 0.3000 Map__21_Normal Bump.tga
+
+newmtl Material__6
+	Ns 28.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0667 0.6039 0.9804
+	Ks 0.7020 0.7020 0.7020
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\walls_map.jpg
+	map_Kd D:\model\UV\walls_map.jpg
+	map_bump -bm 0.4500 Map__24_Normal Bump.tga
+
+newmtl Material__7
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1059 0.1686 0.9882
+	Ks 0.3060 0.3060 0.3060
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\wall_exposed_map.jpg
+	map_Kd D:\model\UV\wall_exposed_map.jpg
+	map_bump -bm 0.7000 Map__27_Normal Bump.tga
+
+newmtl Material__8
+	Ns 27.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9490 0.8941 1.0000
+	Ks 0.5040 0.5040 0.5040
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\control_box.jpg
+	map_Kd D:\model\UV\control_box.jpg
+	map_bump -bm 0.4500 Map__31_Normal Bump.tga
+
+newmtl Material__9
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9961 0.5882 0.9922
+	Ks 1.0440 1.0440 1.0440
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\roof_metal_2.jpg
+	map_Kd D:\model\UV\roof_metal_2.jpg
+	map_bump -bm 0.4500 Map__34_Normal Bump.tga
+
+newmtl Material__11
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4353 0.1176 0.3333
+	Ks 0.4590 0.4590 0.4590
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\wall_outer.jpg
+	map_Kd D:\model\UV\wall_outer.jpg
+	map_bump -bm 0.3000 Map__38_Normal Bump.tga
+
+newmtl Material__12
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 0.0863 0.3020
+	Ks 0.3960 0.3960 0.3960
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\wall_back.jpg
+	map_Kd D:\model\UV\wall_back.jpg
+
+newmtl Material__13
+	Ns 29.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5373 0.2118 0.0863
+	Ks 0.6840 0.6840 0.6840
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\metal_chimney.jpg
+	map_Kd D:\model\UV\metal_chimney.jpg
+	map_bump -bm 0.4000 Map__42_Normal Bump.tga
+
+newmtl Material__14
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0275 0.0667 0.3412
+	Ks 0.3960 0.3960 0.3960
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\concrete_curb.jpg
+	map_Kd D:\model\UV\concrete_curb.jpg
+
+newmtl Material__15
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0902 0.4157 0.4431
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\details.jpg
+	map_Kd D:\model\UV\details.jpg
+
+newmtl Material__16
+	Ns 31.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.2880 0.2880 0.2880
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\wood_lines1.jpg
+	map_Kd D:\model\UV\wood_lines1.jpg
+	map_bump -bm 0.3000 Map__50_Normal Bump.tga
+
+newmtl Material__17
+	Ns 31.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.3240 0.3240 0.3240
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\tiles.jpg
+	map_Kd D:\model\UV\tiles.jpg
+	map_bump -bm 0.3000 Map__47_Normal Bump.tga
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8353 0.8353 0.8353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__0_fR-Ambient Occlusion.tga
+	map_Kd Map__0_fR-Ambient Occlusion.tga
+
+newmtl trunkbanana_01
+	Ns 38.0000
+	Ni 1.0000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4941 0.4941 0.4941
+	Ks 0.3441 0.3441 0.3441
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\Banana_Tree_Trunk.jpg
+	map_Kd D:\model\UV\Banana_Tree_Trunk.jpg
+	map_bump -bm 0.3000 Map__58_Normal Bump.tga
+
+newmtl detail_trunk01
+	Ns 32.0000
+	Ni 1.0000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5020 0.5020 0.5020
+	Ks 0.3843 0.4588 0.5922
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\leaves_details.tga
+	map_Kd D:\model\UV\leaves_details.tga
+	map_d D:\model\UV\leaves_details.tga
+	map_bump -bm 0.3000 Map__61_Normal Bump.tga
+
+newmtl leavesleave01
+	Ns 52.0000
+	Ni 1.0000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4941 0.4941 0.4941
+	Ks 0.2767 0.2767 0.2767
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\model\UV\leave.tga
+	map_Kd D:\model\UV\leave.tga
+	map_d D:\model\UV\leave.tga
+	map_bump -bm 0.3000 Map__2_Normal Bump.tga
